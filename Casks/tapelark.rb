@@ -1,6 +1,6 @@
 cask "tapelark" do
-  version "1.5.0"
-  sha256 "bed9715fb6b827061a0dd01c26d37299a7faf3c2efe19c0b076fd25687625739"
+  version "1.6.0"
+  sha256 "afcce73639eb5000123a57322dc484977e284cabf1b76ac1d963f87e0c01d090"
 
   url "https://downloads.tapelark.com/Tapelark-#{version}.dmg"
   name "Tapelark"
